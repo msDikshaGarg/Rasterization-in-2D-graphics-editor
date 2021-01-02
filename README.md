@@ -3,7 +3,8 @@ Interactive Graphics program to demonstrate rasterization.
 <br>
 External libraries required: GLM, GLFW, GLEW.
 <br><br>
-To run : cmake ../ ; make ; ./Assignment2_bin 
+To run : 
+'''cmake ../ ; make ; ./Assignment2_bin'''
 <br><br>
 The output file name can be changed in CMakeLists.txt.
 
