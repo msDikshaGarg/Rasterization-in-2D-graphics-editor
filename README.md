@@ -1,4 +1,4 @@
 # Rasterization-in-2D-graphics-editor
 Interactive Graphics program to demonstrate rasterization.
 
-![alt_text](pan.gif)
+![Alt Text](pan.gif)
