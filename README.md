@@ -14,7 +14,7 @@ When 'I' key is pressed on the keyboard the program goes into Insertion mode. Th
 <br><br>
 When 'O' key is pressed the program goes into traslation mode in which clicking on a triangle selects it and translation can be performed by holding the mouse and dragging the traingle. Clockwise and anti-clockwise rotation can be performed by pressing the 'H' and 'J' keys respectively. The triangle can be scaled and up and down with the 'K' and 'L' keys respectively.<br><br>
 
-![Alt Text](https://github.com/msDikshaGarg/Rasterization-in-2D-graphics-editor/blob/main/outputs/insertion,translation.gif)
+![Alt Text](https://github.com/msDikshaGarg/Rasterization-in-2D-graphics-editor/blob/main/outputs/insert%2Ctranslate.gif)
 
 ##### Panning the camera
 
